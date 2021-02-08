@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Spotify Clone</string>
+
+    <string name="home">Início</string>
+    <string name="search">Buscar</string>
+    <string name="server_error">Erro no servidor!</string>
+    <string name="browse_all_sections">Navegar por todas as seções</string>
+    <string name="library">Sua Biblioteca</string>
+    <string name="artists_songs_podcasts">Artistas, Músicas ou Podcasts</string>
+    <string name="artists">Artistas</string>
+    <string name="add_artist">Adicionar Artist...</string>
+    <string name="your_albums">Seus Álbuns aparecerão aqui</string>
+    <string name="favorite_artists">Agora você pode adicionar alguns dos seus artistas favoritos.</string>
+    <string name="playlists">Playlist</string>
+    <string name="your_artists">Seus artistas aparecerão aqui</string>
+    <string name="play">Play</string>
+    <string name="create_playlist">Criar Playlist</string>
+    <string name="create_your_playlist">Crie sua primeira Playlist</string>
+    <string name="albums">Álbuns</string>
+    <string name="help_you">É fácil, vamos te ajudar.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
